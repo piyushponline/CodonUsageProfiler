@@ -105,5 +105,5 @@ if uploaded_file:
 st.markdown("""
 ---
 
-**Created by Vedant Bhise, FYBI, MGM's College of CS & IT, Nanded**
+**Created by piyush panchal, FYBI, MGM's College of CS & IT, Nanded**
 """)
